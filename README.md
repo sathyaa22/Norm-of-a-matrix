@@ -46,6 +46,7 @@ print("{:.2f}".format(infinity_matrix))
 ```
 
 ## Output:
+
 ### 1-Norm of a Matrix
 
 ![alt text](<Screenshot 2024-04-23 113012.png>)
